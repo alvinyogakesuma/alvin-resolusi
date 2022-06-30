@@ -3,3 +3,4 @@ Alvin Resolusi
 - Membuat platform untuk pengelolaan personal project
 - Membuat 3d portofolio
 - Kolaborasi dengan lebih banyak orang
+- Membuat uang
